@@ -11,6 +11,7 @@ $ npx prisma init --datasource-provider postgresql
 $ npx prisma migrate dev --name init
 $ touch script.ts
 $ npx tsx script.ts
+$ npx prisma studio # ブラウザでデータベースを確認 https://localhost:5555
 ```
 
 # Ref
