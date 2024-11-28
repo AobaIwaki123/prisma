@@ -1,3 +1,5 @@
+# Prismaに入門するためのリポジトリ
+
 # Getting Started with Prisma
 
 ```sh
